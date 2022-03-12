@@ -124,7 +124,7 @@ img {
 /* intro styles start */
 .intro {
     height: 100vh;
-    background: url(/img/intro-BG.jpg) no-repeat;
+    background: url(./img/intro-BG.jpg) no-repeat;
     background-size: cover;
     padding-top: 263px;
     padding-bottom: 223px;
