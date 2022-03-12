@@ -157,7 +157,7 @@ img {
 
 .search-form_field {
     width: 297px;
-    background: transparent url(/img/svg/oval.svg) no-repeat left 6px;
+    background: transparent url(./img/svg/oval.svg) no-repeat left 6px;
     background-size: 20px;
     border: 0px;
     border-bottom: 2px solid #bfc0c5;
